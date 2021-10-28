@@ -12,5 +12,6 @@
     "browser"
   ],
   "author": "Bas Stottelaar",
-  "license": "BSD-3-Clause"
+  "license": "BSD-3-Clause",
+  "browser": "dist/esm/index.js"
 }
